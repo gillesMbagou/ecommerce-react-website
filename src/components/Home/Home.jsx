@@ -5,7 +5,6 @@ import ProductCard from "../product/ProductCard.jsx";
 
 export default function Home({ prop = "Welcome to ShopHub" }) {
   const products = getProducts();
-  console.log(products);
   return (
     <>
       <div className="page">
