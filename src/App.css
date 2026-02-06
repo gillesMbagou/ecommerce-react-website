@@ -113,12 +113,14 @@ body {
 }
 
 .home-title {
+  text-align: center;
   font-size: 3rem;
   margin-bottom: 1rem;
   color: #333;
 }
 
 .home-subtitle {
+  text-align: center;
   font-size: 1.25rem;
   color: #666;
   margin-bottom: 2rem;

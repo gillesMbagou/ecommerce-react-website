@@ -1,0 +1,8 @@
+h1.Home {
+  display: flex;           /* Active le mode Flexbox */
+  justify-content: center; /* Centre horizontalement */
+  align-items: center;     /* Centre verticalement */
+  flex-direction: column;  /* Aligne les éléments (h1, p) l'un sous l'autre */
+  min-height: 100vh;       /* Prend toute la hauteur de la fenêtre */
+  text-align: center;
+}
